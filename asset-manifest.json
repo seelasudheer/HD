@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/seelasudheer/remo.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/seelasudheer/remo.git/static/js/main.9db0ef30.chunk.js",
-    "main.js.map": "/seelasudheer/remo.git/static/js/main.9db0ef30.chunk.js.map",
-    "runtime-main.js": "/seelasudheer/remo.git/static/js/runtime-main.c2605386.js",
-    "runtime-main.js.map": "/seelasudheer/remo.git/static/js/runtime-main.c2605386.js.map",
-    "static/js/2.bb663b7f.chunk.js": "/seelasudheer/remo.git/static/js/2.bb663b7f.chunk.js",
-    "static/js/2.bb663b7f.chunk.js.map": "/seelasudheer/remo.git/static/js/2.bb663b7f.chunk.js.map",
-    "index.html": "/seelasudheer/remo.git/index.html",
-    "precache-manifest.b4824bf62eb5c13dd190ee784715c47f.js": "/seelasudheer/remo.git/precache-manifest.b4824bf62eb5c13dd190ee784715c47f.js",
-    "service-worker.js": "/seelasudheer/remo.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/seelasudheer/remo.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bb663b7f.chunk.js.LICENSE": "/seelasudheer/remo.git/static/js/2.bb663b7f.chunk.js.LICENSE",
-    "static/media/logo.svg": "/seelasudheer/remo.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/seelasudheer/HD.git/static/css/main.d1b05096.chunk.css",
+    "main.js": "/seelasudheer/HD.git/static/js/main.46bca1a6.chunk.js",
+    "main.js.map": "/seelasudheer/HD.git/static/js/main.46bca1a6.chunk.js.map",
+    "runtime-main.js": "/seelasudheer/HD.git/static/js/runtime-main.281d8e67.js",
+    "runtime-main.js.map": "/seelasudheer/HD.git/static/js/runtime-main.281d8e67.js.map",
+    "static/js/2.bb663b7f.chunk.js": "/seelasudheer/HD.git/static/js/2.bb663b7f.chunk.js",
+    "static/js/2.bb663b7f.chunk.js.map": "/seelasudheer/HD.git/static/js/2.bb663b7f.chunk.js.map",
+    "index.html": "/seelasudheer/HD.git/index.html",
+    "precache-manifest.f2dd3927bdf3e4e6feb5a98a586bd1f1.js": "/seelasudheer/HD.git/precache-manifest.f2dd3927bdf3e4e6feb5a98a586bd1f1.js",
+    "service-worker.js": "/seelasudheer/HD.git/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/seelasudheer/HD.git/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bb663b7f.chunk.js.LICENSE": "/seelasudheer/HD.git/static/js/2.bb663b7f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/seelasudheer/HD.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2605386.js",
+    "static/js/runtime-main.281d8e67.js",
     "static/js/2.bb663b7f.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9db0ef30.chunk.js"
+    "static/js/main.46bca1a6.chunk.js"
   ]
 }
